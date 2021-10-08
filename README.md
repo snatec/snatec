@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me
-An optimistic beginner who use positive attitude and tireless energy to encourage myself and others to work smarter and succeed,currently pursing my degree btech in computer science with specialisation in IoT.
-C/C++ are my preferred languages and IoT(INTERNET OF THINGS) is my domain i am working on. I like to help and contribute in technological advances that happen everyday in the world.
+An optimistic beginner who use positive attitude and tireless energy to encourage myself and others to work smarter and succeed,currently pursing my degree B Tech in computer science with specialisation in IoT.
+I like to help and contribute in technological advances that happen everyday in the world.
 
